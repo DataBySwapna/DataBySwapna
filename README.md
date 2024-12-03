@@ -36,7 +36,8 @@ I’m an aspiring **Data Analyst** passionate about exploring data and uncoverin
 ---
 
   ## 💻 Tools and Technologies
-- **Data Visualization**:  
+- **Data Visualization**:
+  
   ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
   ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
 - **Data Analysis**:  

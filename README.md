@@ -1,4 +1,4 @@
-👋 Hello, I'm Swapna Macha
+👋 Hello, I'm Swapna
 ====================================================================================================================================
 
 Data Analyst
@@ -12,7 +12,7 @@ Data Analyst
 - 🛠️ **Hands-On Experience**: Gained practical skills through a 12-week intensive Data Bootcamp with Just IT, working on real-world datasets.  
 - 📊 **Technical Proficiency**: Skilled in data cleaning, analysis, and visualization using tools like Excel, SQL, Tableau, Power BI, and Python.  
 - 🎯 **Career Aspiration**: Eager to apply my knowledge and skills to solve data-driven challenges and deliver impactful solutions.
-
+- 🏅[![Google Data Analytics Professional Certificate](https://img.shields.io/badge/Google-Data_Analytics_Professional_Certificate-blue?style=flat-square&logo=google)](https://www.coursera.org/account/accomplishments/specialization/AHSCGX423EA4)
 ---
 
 💻 **Tools and Technologies**
@@ -55,5 +55,5 @@ Data Analyst
 - Getting certified in Power BI and Tableau.  
 - Building end-to-end data pipelines.
 ---
+[![Google Data Analytics Professional Certificate](https://img.shields.io/badge/Google-Data_Analytics_Professional_Certificate-blue?style=flat-square&logo=google)](https://www.coursera.org/account/accomplishments/specialization/AHSCGX423EA4)
 
-[![Google Data Analytics Professional Certificate](https://img.shields.io/badge/Google-Data_Analytics_Professional_Certificate-blue?style=flat-square&logo=google)](https://img.shields.io/badge/Google-Data_Analytics-blue?style=flat-square&logo=google)

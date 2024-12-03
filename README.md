@@ -16,7 +16,6 @@ I’m an aspiring **Data Analyst** passionate about exploring data and uncoverin
 - 🛠️ Currently working on projects involving **Excel**, **Power BI**, **Tableau**, **SQL**, and **Python**.
 - 🎯 Aspiring to work on real-world data challenges and contribute to impactful projects.
 ---
-
 ### Skills
 
 <p align="left">

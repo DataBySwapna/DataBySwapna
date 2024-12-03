@@ -6,12 +6,12 @@ Data Analyst
 ### 🎯 **Welcome to my GitHub Profile!**  
 ### I’m an aspiring **Data Analyst** passionate about exploring data and uncovering meaningful insights. I’m currently honing my skills in data analytics and visualization using industry-standard tools and technologies.
 ---  
-## 🚀 **About Me**
-
-- 🌱 I’m learning and growing in the field of **data analytics**.
-- 🎓 I have done masters in computer science.
-- 🛠️ Currently working on projects involving **Excel**, **Power BI**, **Tableau**, **SQL**, and **Python**.
-- 🎯 Aspiring to work on real-world data challenges and contribute to impactful projects.
+🚀 **About Me**  
+- 🎓 **Educational Background**: Aspiring data analyst with a Master's in Computer Science and certification in Google Data Analytics.  
+- 🌱 **Journey into Data**: Discovered my passion for data analytics during my teaching career by analyzing student data to drive decisions.  
+- 🛠️ **Hands-On Experience**: Gained practical skills through a 12-week intensive Data Bootcamp with Just IT, working on real-world datasets.  
+- 📊 **Technical Proficiency**: Skilled in data cleaning, analysis, and visualization using tools like Excel, SQL, Tableau, Power BI, and Python.  
+- 🎯 **Career Aspiration**: Eager to apply my knowledge and skills to solve data-driven challenges and deliver impactful solutions.
 
 ---
 

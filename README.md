@@ -55,3 +55,5 @@ Data Analyst
 - Getting certified in Power BI and Tableau.  
 - Building end-to-end data pipelines.
 ---
+
+[![Google Data Analytics Professional Certificate](https://img.shields.io/badge/Google-Data_Analytics_Professional_Certificate-blue?style=flat-square&logo=google)](https://img.shields.io/badge/Google-Data_Analytics-blue?style=flat-square&logo=google)

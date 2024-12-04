@@ -1,6 +1,5 @@
 👋 Hello, I'm Swapna
 ====================================================================================================================================
-
 Data Analyst
 ------------
 ### 🎯 **Welcome to my GitHub Profile!**  
@@ -20,25 +19,20 @@ Data Analyst
 
 ---
 ## 📚 My Projects
-
 ### Power BI
   - [Global Superstore Data Analysis](https://github.com/DataBySwapna/Global-Super-Store-Data-Analysis)
   - [Sales Performance Dashboard](https://github.com/DataBySwapna/Sales-Performance-Dashboard)
-
 ### Tableau
   - [Cyclistic Bike-Share Case Study](https://github.com/DataBySwapna/Cyclistic-Bike-Share-Case-Study)
   - [Global Health Trends Analysis](https://github.com/DataBySwapna/Global-Health-Trends-Analysis)
   - [Spotify Data Analysis](https://github.com/DataBySwapna/Spotify-Data-Analysis)
   - [Airbnb Listings Analysis Dashboard](https://github.com/DataBySwapna/Airbnb-Listings-Analysis-Dashboard)
-
 ### Excel
   - [Bike Sales Analysis and Visualization](https://github.com/DataBySwapna/Bike-Sales-Analysis-and-Visualization)
   - [Dynamic Excel Dashboard for Cookie Company](https://github.com/DataBySwapna/Dynamic-Excel-Dashboard-for-Cookie-Company)
   - [Retail Sales Performance Analysis](https://github.com/DataBySwapna/Retail-Sales-Performance-Analysis)
-
 ### SQL
   - [SQL Practice Project: Exploring Global Demographics](https://github.com/DataBySwapna/SQL-learning-Journey)
-
 ### Python
   - [Global Superstore Data Analysis](https://github.com/DataBySwapna/Global-Super-Store-Data-Analysis)
   - [Exercise Data Analysis](https://github.com/DataBySwapna/Exercise-Data-Analysis)

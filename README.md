@@ -7,7 +7,7 @@ Data Analyst
 ### I’m an aspiring **Data Analyst** passionate about exploring data and uncovering meaningful insights. I’m currently honing my skills in data analytics and visualization using industry-standard tools and technologies.
 ---  
 🚀 **About Me**  
-- 🎓 **Educational Background**: Aspiring data analyst with a Master's in Computer Science and certification in Google Data Analytics.  
+- 🎓 **Educational Background**: Aspiring data analyst with a Master's in Computer Science and a Google Data Analytics Certification.  
 - 🌱 **Journey into Data**: Discovered my passion for data analytics during my teaching career by analyzing student data to drive decisions.  
 - 🛠️ **Hands-On Experience**: Gained practical skills through a 12-week intensive Data Bootcamp with Just IT, working on real-world datasets.  
 - 📊 **Technical Proficiency**: Skilled in data cleaning, analysis, and visualization using tools like Excel, SQL, Tableau, Power BI, and Python.  
@@ -17,20 +17,7 @@ Data Analyst
 
 💻 **Tools and Technologies**
 
-- **Data Visualization**:
-  
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/power-bi.png" width="30" height="30" alt="Power BI" /></a>  ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-  
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">    <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="30" height="30" alt="Tableau" /></a>  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
-- **Data Analysis**:
-  
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" width="30" height="30" alt="Excel" /></a>  ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
-- **Database Management**:
-  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="30" height="30" alt="MySQL" /></a>  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)  
-- **Programming**:
-  
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="30" height="30" alt="Python" /></a>  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/power-bi.png" width="30" height="30" alt="Power BI" /></a>  ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">    <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="30" height="30" alt="Tableau" /></a>  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" width="30" height="30" alt="Excel" /></a>  ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="30" height="30" alt="MySQL" /></a>  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="30" height="30" alt="Python" /></a>  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 

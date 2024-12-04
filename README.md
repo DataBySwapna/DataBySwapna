@@ -1,9 +1,7 @@
 👋 Hello, I'm Swapna
 ====================================================================================================================================
-Data Analyst
-------------
 ### 🎯 **Welcome to my GitHub Profile!**  
-### I’m an aspiring **Data Analyst** passionate about exploring data and uncovering meaningful insights. I’m currently honing my skills in data analytics and visualization using industry-standard tools and technologies.
+#### I’m an aspiring **Data Analyst** passionate about exploring data and uncovering meaningful insights. I’m currently honing my skills in data analytics and visualization using industry-standard tools and technologies.
 ---  
 🚀 **About Me**  
 - 🎓 **Educational Background**: Aspiring data analyst with a Master's in Computer Science and a Google Data Analytics Certification.  

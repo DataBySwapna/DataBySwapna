@@ -18,7 +18,7 @@
 ---
 ## 📚 My Projects
 #### Power BI 
-  - [Global Superstore Data Analysis](https://github.com/DataBySwapna/Global-Super-Store-Data-Analysis)
+  - [Global Classic Collections Product Analysis](https://github.com/DataBySwapna/Global-Classic-Collections-Product-Analysis)
   - [Sales Performance Dashboard](https://github.com/DataBySwapna/Sales-Performance-Dashboard)
 #### Tableau
   - [Cyclistic Bike-Share Case Study](https://github.com/DataBySwapna/Cyclistic-Bike-Share-Case-Study)
